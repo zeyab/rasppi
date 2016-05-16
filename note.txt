@@ -1,0 +1,10 @@
+Move/copy 
+scp blinkport.py pi@192.168.123.110:/home/pi/scripts
+
+Permissions
+
+http://www.dummies.com/how-to/content/working-with-file-permissions-on-your-raspberry-pi.html
+
+
+Relay:
+Connect to left side of relay powers to activate when IN is ON.
